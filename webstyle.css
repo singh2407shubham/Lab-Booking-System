@@ -1,0 +1,34 @@
+/* css file*/
+
+body{
+    margin-left: 1%;
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+
+}
+div {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+.error {
+    color:red;
+    font-size: small;
+}
+.button{
+    padding: 20px;
+}
+
+#succesMessage{
+    color: green;
+}
+#errorMessage{
+    color: red;
+}
+
